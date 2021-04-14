@@ -20,7 +20,7 @@
 Gather a list of Big Media Articles (WSJ, Wired, etc) and Author names (as many as possible) for those articles talking about "Google Cloud", such that you have a table looking as follows:
 
 ------------------------------------------------------------------------------------
-|--- Link --- | --- Reporter Name --- | --- Publication --- | --- Artile Title --- |
+|--- Link --- | --- Reporter Name --- | --- Publication --- | --- Article Title --- |
 ------------------------------------------------------------------------------------
 Save that in Google Sheets
 
@@ -29,7 +29,7 @@ Save that in Google Sheets
 Use a tool like DataMiner.io and LinkedIn to identify LI profiles for all the Journalists/Reporters. Your table now looks like this:
 
 -----------------------------------------------------------------------------------------------------------------------------------
-|--- Link --- | --- Reporter Name --- | --- Publication --- | --- Artile Title --- | --- LI Profile --- | --- LI Current Title --- |
+|--- Link --- | --- Reporter Name --- | --- Publication --- | --- Article Title --- | --- LI Profile --- | --- LI Current Title --- |
 -----------------------------------------------------------------------------------------------------------------------------------
 Save that info into the same Google Sheets
 

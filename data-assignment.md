@@ -1,10 +1,6 @@
 ## ABOUT YOU:
 
-- a misfit, data generalist and jack-of-all-trades, poses high resourcefulness. 
-- have strong bias towards action.
-- have some practical experience. 
 - sharp ability to listen
-- able to see projects through from conception to implementation
 - strong attention to detail.
 
 ## ASSIGNMENT REQUIREMENTS
@@ -15,7 +11,7 @@
 * 10% Creativity
 
 ## TO APPLY:
-#### 1) Compile a list of Media Reporters
+#### 1) Compile a list of Media Reporters (10 MAX)
 
 Gather a list of Big Media Articles (WSJ, Wired, etc) and Author names (as many as possible) for those articles talking about "Google Cloud", such that you have a table looking as follows:
 
@@ -26,7 +22,7 @@ Save that in Google Sheets
 
 #### 2) Identify these Reporters on LinkedIn
 
-Use a tool like DataMiner.io and LinkedIn to identify LI profiles for all the Journalists/Reporters. Your table now looks like this:
+Use a tool like **DataMiner.io** OR **Linked Helper** and LinkedIn to identify LI profiles for all the Journalists/Reporters. Your table now looks like this:
 
 -----------------------------------------------------------------------------------------------------------------------------------
 |--- Link --- | --- Reporter Name --- | --- Publication --- | --- Article Title --- | --- LI Profile --- | --- LI Current Title --- |
@@ -61,7 +57,7 @@ do this in the automated fashion for all pages. Write-up one paragraph about you
 
 #### 6) Draft up a word document summarizing (1/2 page) your key decisions and results with all relevant links
 
-#### 7) Email results to Segah
+#### 7) Email us your results
 - reference your github username and a link to the repo from (3)
 - link to the Google Spreadsheet (make sure it is shared with "anyone who has the link")
 - Your Word Doc Summary as an attachment (including above SQL query, sample personalized text, # of reporters extracted, and other key factors you think are relevant)
